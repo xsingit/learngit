@@ -6,4 +6,5 @@ Creating a new branch is quick AND simple.
 Add merge.
 Bug test.
 Bug test twice.
+Features.
 Features local.
